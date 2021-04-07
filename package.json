@@ -1,0 +1,30 @@
+{
+  "name": "BokaWallet",
+  "description": "��#\u0000 \u0000S\u0000h\u0000a\u0000r\u0000e\u0000d\u0000W\u0000a\u0000l\u0000l\u0000e\u0000t\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boka44/SharedWallet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boka44/SharedWallet/issues"
+  },
+  "homepage": "https://github.com/Boka44/SharedWallet#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.3.0",
+    "ethers": "^5.1.0",
+    "hardhat": "^2.1.2"
+  }
+}
